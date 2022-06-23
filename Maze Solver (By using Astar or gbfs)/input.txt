@@ -1,0 +1,6 @@
+greedyBestFirst
+4
+ADWB
+RWWR
+RDWR
+RRRR
